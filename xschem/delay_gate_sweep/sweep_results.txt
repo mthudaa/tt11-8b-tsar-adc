@@ -1,0 +1,37 @@
+Tegangan Input: -0.9 | Delay Positif:  | Delay Negatif: 1.54881E-09
+Tegangan Input: -0.85 | Delay Positif:  | Delay Negatif: 1.57193E-09
+Tegangan Input: -0.8 | Delay Positif:  | Delay Negatif: 1.59894E-09
+Tegangan Input: -0.75 | Delay Positif:  | Delay Negatif: 1.62991E-09
+Tegangan Input: -0.7 | Delay Positif:  | Delay Negatif: 1.6667E-09
+Tegangan Input: -0.65 | Delay Positif:  | Delay Negatif: 1.7108E-09
+Tegangan Input: -0.6 | Delay Positif:  | Delay Negatif: 1.76396E-09
+Tegangan Input: -0.55 | Delay Positif:  | Delay Negatif: 1.83051E-09
+Tegangan Input: -0.5 | Delay Positif:  | Delay Negatif: 1.91615E-09
+Tegangan Input: -0.45 | Delay Positif:  | Delay Negatif: 2.03229E-09
+Tegangan Input: -0.4 | Delay Positif:  | Delay Negatif: 2.20111E-09
+Tegangan Input: -0.35 | Delay Positif:  | Delay Negatif: 2.45639E-09
+Tegangan Input: -0.3 | Delay Positif:  | Delay Negatif: 2.85304E-09
+Tegangan Input: -0.25 | Delay Positif:  | Delay Negatif: 3.49376E-09
+Tegangan Input: -0.2 | Delay Positif:  | Delay Negatif: 4.6212E-09
+Tegangan Input: -0.15 | Delay Positif:  | Delay Negatif: 6.8445E-09
+Tegangan Input: -0.1 | Delay Positif: 2.10952E-07 | Delay Negatif: 1.15547E-08
+Tegangan Input: -0.05 | Delay Positif: 9.42689E-08 | Delay Negatif: 2.17496E-08
+Tegangan Input: 2.08167E-16 | Delay Positif: 4.36712E-08 | Delay Negatif: 4.36754E-08
+Tegangan Input: 0.05 | Delay Positif: 2.17496E-08 | Delay Negatif: 9.42759E-08
+Tegangan Input: 0.1 | Delay Positif: 1.15547E-08 | Delay Negatif: 2.10948E-07
+Tegangan Input: 0.15 | Delay Positif: 6.8445E-09 | Delay Negatif: 
+Tegangan Input: 0.2 | Delay Positif: 4.6212E-09 | Delay Negatif: 
+Tegangan Input: 0.25 | Delay Positif: 3.49376E-09 | Delay Negatif: 
+Tegangan Input: 0.3 | Delay Positif: 2.85304E-09 | Delay Negatif: 
+Tegangan Input: 0.35 | Delay Positif: 2.45639E-09 | Delay Negatif: 
+Tegangan Input: 0.4 | Delay Positif: 2.20111E-09 | Delay Negatif: 
+Tegangan Input: 0.45 | Delay Positif: 2.03229E-09 | Delay Negatif: 
+Tegangan Input: 0.5 | Delay Positif: 1.91615E-09 | Delay Negatif: 
+Tegangan Input: 0.55 | Delay Positif: 1.83052E-09 | Delay Negatif: 
+Tegangan Input: 0.6 | Delay Positif: 1.76396E-09 | Delay Negatif: 
+Tegangan Input: 0.65 | Delay Positif: 1.71082E-09 | Delay Negatif: 
+Tegangan Input: 0.7 | Delay Positif: 1.6667E-09 | Delay Negatif: 
+Tegangan Input: 0.75 | Delay Positif: 1.62991E-09 | Delay Negatif: 
+Tegangan Input: 0.8 | Delay Positif: 1.59894E-09 | Delay Negatif: 
+Tegangan Input: 0.85 | Delay Positif: 1.57193E-09 | Delay Negatif: 
+Tegangan Input: 0.9 | Delay Positif: 1.54881E-09 | Delay Negatif: 

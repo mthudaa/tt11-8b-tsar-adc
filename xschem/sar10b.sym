@@ -1,0 +1,58 @@
+v {xschem version=3.4.6 file_version=1.2}
+G {}
+K {type=subcircuit
+format="@name @pinlist @symname"
+template="name=x1"
+spice_sym_def=".include /home/huda/vlsi/8bit_SAR-ADC_ITS/xschem/sar10b.spice"
+}
+V {}
+S {}
+E {}
+L 4 -130 -70 130 -70 {}
+L 4 -130 70 130 70 {}
+L 4 -130 -70 -130 70 {}
+L 4 130 -70 130 70 {}
+L 4 -150 -60 -130 -60 {}
+L 4 -150 -40 -130 -40 {}
+L 4 -150 -20 -130 -20 {}
+L 4 -150 0 -130 0 {}
+L 4 -150 20 -130 20 {}
+L 4 -150 40 -130 40 {}
+L 4 -150 60 -130 60 {}
+L 4 130 -60 150 -60 {}
+L 4 130 -40 150 -40 {}
+L 4 130 -20 150 -20 {}
+L 4 130 0 150 0 {}
+L 4 130 20 150 20 {}
+L 4 130 40 150 40 {}
+L 4 130 60 150 60 {}
+B 5 -152.5 -62.5 -147.5 -57.5 {name=VPWR sig_type=std_logic dir=in}
+B 5 -152.5 -42.5 -147.5 -37.5 {name=VGND sig_type=std_logic dir=in}
+B 5 -152.5 -22.5 -147.5 -17.5 {name=CLK sig_type=std_logic dir=in}
+B 5 -152.5 -2.5 -147.5 2.5 {name=RDY sig_type=std_logic dir=in}
+B 5 -152.5 17.5 -147.5 22.5 {name=CMP_P sig_type=std_logic dir=in}
+B 5 -152.5 37.5 -147.5 42.5 {name=CMP_N sig_type=std_logic dir=in}
+B 5 -152.5 57.5 -147.5 62.5 {name=EN sig_type=std_logic dir=in}
+B 5 147.5 -62.5 152.5 -57.5 {name=CKS sig_type=std_logic dir=out}
+B 5 147.5 -42.5 152.5 -37.5 {name=CKSB sig_type=std_logic dir=out}
+B 5 147.5 -22.5 152.5 -17.5 {name=CF[0:9] sig_type=std_logic dir=out}
+B 5 147.5 -2.5 152.5 2.5 {name=SWP[0:9] sig_type=std_logic dir=out}
+B 5 147.5 17.5 152.5 22.5 {name=SWN[0:9] sig_type=std_logic dir=out}
+B 5 147.5 37.5 152.5 42.5 {name=DATA[0:9] sig_type=std_logic dir=out}
+B 5 147.5 57.5 152.5 62.5 {name=CKO sig_type=std_logic dir=out}
+T {@symname} -85.5 -6 0 0 0.3 0.3 {}
+T {@name} 135 -82 0 0 0.2 0.2 {}
+T {VPWR} -125 -64 0 0 0.2 0.2 {}
+T {VGND} -125 -44 0 0 0.2 0.2 {}
+T {CLK} -125 -24 0 0 0.2 0.2 {}
+T {RDY} -125 -4 0 0 0.2 0.2 {}
+T {CMP_P} -125 16 0 0 0.2 0.2 {}
+T {CMP_N} -125 36 0 0 0.2 0.2 {}
+T {EN} -125 56 0 0 0.2 0.2 {}
+T {CKS} 125 -64 0 1 0.2 0.2 {}
+T {CKSB} 125 -44 0 1 0.2 0.2 {}
+T {CF[0:9]} 125 -24 0 1 0.2 0.2 {}
+T {SWP[0:9]} 125 -4 0 1 0.2 0.2 {}
+T {SWN[0:9]} 125 16 0 1 0.2 0.2 {}
+T {DATA[0:9]} 125 36 0 1 0.2 0.2 {}
+T {CKO} 125 56 0 1 0.2 0.2 {}

@@ -1,0 +1,5 @@
+Corner: ss | Delay: 8.66748E-08
+Corner: sf | Delay: 8.69048E-08
+Corner: tt | Delay: 4.28111E-08
+Corner: fs | Delay: 2.61175E-08
+Corner: ff | Delay: 2.29202E-08
